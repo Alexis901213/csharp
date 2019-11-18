@@ -1,0 +1,14 @@
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\bin\Debug\netcoreapp3.0\ConsoleView.exe
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\bin\Debug\netcoreapp3.0\ConsoleView.deps.json
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\bin\Debug\netcoreapp3.0\ConsoleView.runtimeconfig.json
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\bin\Debug\netcoreapp3.0\ConsoleView.runtimeconfig.dev.json
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\bin\Debug\netcoreapp3.0\ConsoleView.dll
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\bin\Debug\netcoreapp3.0\ConsoleView.pdb
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\bin\Debug\netcoreapp3.0\Library.dll
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\bin\Debug\netcoreapp3.0\Library.pdb
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\obj\Debug\netcoreapp3.0\ConsoleView.csprojAssemblyReference.cache
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\obj\Debug\netcoreapp3.0\ConsoleView.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\obj\Debug\netcoreapp3.0\ConsoleView.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\obj\Debug\netcoreapp3.0\ConsoleView.csproj.CopyComplete
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\obj\Debug\netcoreapp3.0\ConsoleView.dll
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\ConsoleView\obj\Debug\netcoreapp3.0\ConsoleView.pdb

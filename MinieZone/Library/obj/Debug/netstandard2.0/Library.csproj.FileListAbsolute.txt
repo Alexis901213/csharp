@@ -1,0 +1,8 @@
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\Library\bin\Debug\netstandard2.0\Library.deps.json
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\Library\bin\Debug\netstandard2.0\Library.dll
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\Library\bin\Debug\netstandard2.0\Library.pdb
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\Library\obj\Debug\netstandard2.0\Library.csprojAssemblyReference.cache
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\Library\obj\Debug\netstandard2.0\Library.dll
+C:\Users\alexi\OneDrive\Documents\csharp\MinieZone\Library\obj\Debug\netstandard2.0\Library.pdb
