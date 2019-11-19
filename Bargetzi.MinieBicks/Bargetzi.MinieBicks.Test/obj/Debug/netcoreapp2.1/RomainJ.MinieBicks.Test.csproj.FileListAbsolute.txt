@@ -1,0 +1,15 @@
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\RomainJ.MinieBicks.Test.deps.json
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\RomainJ.MinieBicks.Test.runtimeconfig.json
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\RomainJ.MinieBicks.Test.runtimeconfig.dev.json
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\RomainJ.MinieBicks.Test.dll
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\RomainJ.MinieBicks.Test.pdb
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\RomainJ.MinieBicks.lib.dll
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\RomainJ.MinieBicks.lib.pdb
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\obj\Debug\netcoreapp2.1\RomainJ.MinieBicks.Test.csprojAssemblyReference.cache
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\obj\Debug\netcoreapp2.1\RomainJ.MinieBicks.Test.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\obj\Debug\netcoreapp2.1\RomainJ.MinieBicks.Test.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\obj\Debug\netcoreapp2.1\RomainJ.MinieBicks.Test.csproj.CopyComplete
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\obj\Debug\netcoreapp2.1\RomainJ.MinieBicks.Test.dll
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\obj\Debug\netcoreapp2.1\RomainJ.MinieBicks.Test.pdb
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Data.dll
+C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Data.pdb
