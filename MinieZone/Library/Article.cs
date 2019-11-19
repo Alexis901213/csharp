@@ -1,18 +1,39 @@
 ﻿using System;
+using System.ComponentModel;
+using System.Runtime.CompilerServices;
 
 namespace Library
 {
     public class Article
     {
         public Guid identifiant { get; private set; }
-        public string name { get; private set; }
+
+        public event PropertyChangedEventHandler PropertyChanged;
+
+        public void RaisePropertyChanged([CallerMemberName] string propertyName = null)
+        {
+            PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
+        }
+        private string name;
+        public string Name
+        {
+            get { return name; }
+            set
+            {
+                if (!string.IsNullOrWhiteSpace(value))
+                {
+                    name = value;
+                    RaisePropertyChanged();
+                }
+            }
+        }
         public decimal prixHT { get; private set; }
         public decimal prixTTC { get; private set; }
 
-        public Article(Guid identifiant, decimal prixHT, decimal prixTTC, string name = "nom")
+        public Article(Guid identifiant, decimal prixHT, decimal prixTTC, string name)
         {
             this.identifiant = identifiant;
-            this.name = string.IsNullOrWhiteSpace(name) ? "Nom" : name;
+            this.name = name;
             if (prixHT >= 0)
                 this.prixHT = prixHT;
             else

@@ -29,8 +29,10 @@ namespace ConsoleView
 
             Article articleExemple = new Article(new Guid(), 1M, 1M, "exemple");
             List<Article> listArticleExemple = new List<Article>();
-            for (int i = 0; i <= 99; i++)
+            for (int i = 0; i <= 9; i++)
                 listArticleExemple.Add(articleExemple);
+            foreach (var item in listArticleExemple)
+                Console.WriteLine(item.ArticleDetails());
             Livraison livraisonExemple = new Livraison("exmple", "exemple", "addrExemple", 12345, "villeExemple", "France", "adrrLivraisonExemple", 12345, "villeLivraisonEmple", "bsvjhb", sexe.Masculin);
             Commande commandeexemple = new Commande(new Guid(), DateTime.Now, listArticleExemple, livraisonExemple);
 
