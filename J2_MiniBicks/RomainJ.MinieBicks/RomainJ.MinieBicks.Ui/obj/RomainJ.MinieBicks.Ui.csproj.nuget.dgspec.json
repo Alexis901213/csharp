@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Ui\\RomainJ.MinieBicks.Ui.csproj": {}
+    "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Ui\\RomainJ.MinieBicks.Ui.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj": {
+    "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj",
         "projectName": "RomainJ.MinieBicks.Data",
-        "projectPath": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj",
+        "projectPath": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.lib\\RomainJ.MinieBicks.lib.csproj": {
+    "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.lib\\RomainJ.MinieBicks.lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.lib\\RomainJ.MinieBicks.lib.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.lib\\RomainJ.MinieBicks.lib.csproj",
         "projectName": "RomainJ.MinieBicks.lib",
-        "projectPath": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.lib\\RomainJ.MinieBicks.lib.csproj",
+        "projectPath": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.lib\\RomainJ.MinieBicks.lib.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.lib\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.lib\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -101,8 +101,8 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj": {
-                "projectPath": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj"
+              "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj": {
+                "projectPath": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj"
               }
             }
           }
@@ -134,14 +134,14 @@
         }
       }
     },
-    "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Ui\\RomainJ.MinieBicks.Ui.csproj": {
+    "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Ui\\RomainJ.MinieBicks.Ui.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Ui\\RomainJ.MinieBicks.Ui.csproj",
+        "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Ui\\RomainJ.MinieBicks.Ui.csproj",
         "projectName": "RomainJ.MinieBicks.Ui",
-        "projectPath": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Ui\\RomainJ.MinieBicks.Ui.csproj",
+        "projectPath": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Ui\\RomainJ.MinieBicks.Ui.csproj",
         "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Ui\\obj\\",
+        "outputPath": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Ui\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -160,11 +160,11 @@
         "frameworks": {
           "netcoreapp3.0": {
             "projectReferences": {
-              "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj": {
-                "projectPath": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj"
+              "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj": {
+                "projectPath": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj"
               },
-              "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.lib\\RomainJ.MinieBicks.lib.csproj": {
-                "projectPath": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.lib\\RomainJ.MinieBicks.lib.csproj"
+              "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.lib\\RomainJ.MinieBicks.lib.csproj": {
+                "projectPath": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.lib\\RomainJ.MinieBicks.lib.csproj"
               }
             }
           }

@@ -1156,11 +1156,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj",
+      "projectUniqueName": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj",
       "projectName": "RomainJ.MinieBicks.Data",
-      "projectPath": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj",
+      "projectPath": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\RomainJ.MinieBicks.Data.csproj",
       "packagesPath": "C:\\Users\\alexi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexi\\OneDrive\\Bureau\\MinieZoneSolution-master-2\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\obj\\",
+      "outputPath": "C:\\Users\\alexi\\OneDrive\\Documents\\csharp\\J2_MiniBicks\\RomainJ.MinieBicks\\RomainJ.MinieBicks.Data\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
