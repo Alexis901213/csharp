@@ -1,0 +1,8 @@
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.lib\bin\Debug\netcoreapp1.1\Bargetzi.MinieBicks.lib.deps.json
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.lib\bin\Debug\netcoreapp1.1\Bargetzi.MinieBicks.lib.dll
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.lib\bin\Debug\netcoreapp1.1\Bargetzi.MinieBicks.lib.pdb
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp1.1\Bargetzi.MinieBicks.lib.csprojAssemblyReference.cache
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp1.1\Bargetzi.MinieBicks.lib.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp1.1\Bargetzi.MinieBicks.lib.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp1.1\Bargetzi.MinieBicks.lib.dll
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp1.1\Bargetzi.MinieBicks.lib.pdb

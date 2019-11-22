@@ -1,0 +1,15 @@
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Test.deps.json
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Test.runtimeconfig.json
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Test.runtimeconfig.dev.json
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Test.dll
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Test.pdb
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Data.dll
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\Bargetzi.MinieBicks.lib.dll
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Data.pdb
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\bin\Debug\netcoreapp2.1\Bargetzi.MinieBicks.lib.pdb
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\obj\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Test.csprojAssemblyReference.cache
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\obj\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Test.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\obj\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Test.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\obj\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Test.csproj.CopyComplete
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\obj\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Test.dll
+C:\Users\alexi\OneDrive\Documents\csharp\Bargetzi.MinieBicks\RomainJ.MinieBicks.Test\obj\Debug\netcoreapp2.1\Bargetzi.MinieBicks.Test.pdb
