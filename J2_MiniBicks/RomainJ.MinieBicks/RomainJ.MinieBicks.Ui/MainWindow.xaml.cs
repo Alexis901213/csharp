@@ -246,8 +246,7 @@ namespace RomainJ.MinieBicks.Ui
             List<Personne> personnes = ControlerPersonne.RechercheToutLesEmployes();
             if (personnes != null && personnes.Count > 0)
             {
-                var combo = sender as ComboBox;
-                combo.ItemsSource = personnes;
+                comboBoxListePersonne.ItemsSource = personnes;
             }
         }
 
@@ -301,7 +300,7 @@ namespace RomainJ.MinieBicks.Ui
 
         private void comboBoxTypeConges_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
-            TypeConges typeConges = (TypeConges)ComboboxTypesConges.SelectedItem;
+            TypeConges typeConges = (TypeConges)ComboBoxListeTypeConges.SelectedItem;
             TextBoxNombreJours.Text = typeConges.JoursConges.ToString();
             TextBoxLibelle.Text = typeConges.Libelle;
             CheckboxValidationTypeConges.IsChecked = typeConges.ValidationObligatoire;
@@ -323,7 +322,6 @@ namespace RomainJ.MinieBicks.Ui
 
         private void SaveAddButtonTypeConges_Click(object sender, RoutedEventArgs e)
         {
-            IsAddingTypeConges(false);
             try
             {
                 int nbJourConges = Convert.ToInt32(TextBoxNombreJours.Text);
@@ -337,6 +335,16 @@ namespace RomainJ.MinieBicks.Ui
             {
                 throw new Exception("NotImplementedException");
             }
+            finally
+            {
+                IsAddingTypeConges(false);
+            }
+        }
+
+        private void UpdateComboboxes()
+        {
+            ComboBoxTypeConge.ItemsSource = TypeCongeController.RechercheTousLesConges();
+            ComboBoxListeTypeConges.ItemsSource = TypeCongeController.RechercheTousLesConges();
         }
 
         private void CancelAddButtonTypeConges_Click(object sender, RoutedEventArgs e)
@@ -348,7 +356,7 @@ namespace RomainJ.MinieBicks.Ui
         {
             if (value)
             {
-                ComboBoxTypeConge.IsEnabled = false;
+                ComboBoxListeTypeConges.IsEnabled = false;
                 TextBoxNombreJours.IsEnabled = true;
                 TextBoxLibelle.IsEnabled = true;
                 CheckboxValidationTypeConges.IsEnabled = true;
@@ -356,7 +364,7 @@ namespace RomainJ.MinieBicks.Ui
                 TextBoxNombreJours.Text = string.Empty;
                 TextBoxLibelle.Text = string.Empty;
                 CheckboxValidationTypeConges.IsChecked = false;
-                ComboBoxTypeConge.ItemsSource = TypeConges.SearchGroupTypeConges();
+                ComboBoxListeTypeConges.ItemsSource = TypeConges.SearchGroupTypeConges();
                 TextBoxPays.Text = string.Empty;
                 AddButtonTypeConges.Visibility = Visibility.Hidden;
                 EditButtonTypeConges.Visibility = Visibility.Hidden;
@@ -368,7 +376,7 @@ namespace RomainJ.MinieBicks.Ui
             }
             else
             {
-                ComboBoxTypeConge.IsEnabled = true;
+                ComboBoxListeTypeConges.IsEnabled = true;
                 TextBoxNombreJours.IsEnabled = false;
                 TextBoxLibelle.IsEnabled = false;
                 CheckboxValidationTypeConges.IsEnabled = false;
@@ -376,7 +384,7 @@ namespace RomainJ.MinieBicks.Ui
                 TextBoxNombreJours.Text = string.Empty;
                 TextBoxLibelle.Text = string.Empty;
                 CheckboxValidationTypeConges.IsChecked = false;
-                ComboBoxTypeConge.ItemsSource = TypeConges.SearchGroupTypeConges();
+                ComboBoxListeTypeConges.ItemsSource = TypeConges.SearchGroupTypeConges();
                 TextBoxPays.Text = string.Empty;
                 AddButtonTypeConges.Visibility = Visibility.Visible;
                 EditButtonTypeConges.Visibility = Visibility.Visible;

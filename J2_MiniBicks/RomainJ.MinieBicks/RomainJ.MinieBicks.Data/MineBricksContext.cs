@@ -20,7 +20,7 @@ namespace RomainJ.MinieBicks.Data
        
 
         protected override void OnConfiguring(DbContextOptionsBuilder options)
-        => options.UseSqlite(@"Data Source=C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master-2\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Data\MinieBicks.db");
+        => options.UseSqlite(@"Data Source=C:\Users\alexi\OneDrive\Documents\csharp\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.Data\MinieBicks.db");
         //"Data Source=MinieBicks.db"
 
     }

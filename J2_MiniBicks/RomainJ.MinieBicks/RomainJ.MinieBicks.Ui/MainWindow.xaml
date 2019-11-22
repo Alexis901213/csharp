@@ -12,13 +12,13 @@
                 <Grid Background="#FFE5E5E5">
                     <ComboBox x:Name="comboBoxListePersonne" HorizontalAlignment="Left" Margin="144,41,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBoxListePersonne_SelectionChanged" Initialized="comboBoxListePersonne_Initialized"/>
                     <TextBlock x:Name="textBlockListePersonne" HorizontalAlignment="Left" Margin="10,44,0,0" Text="Liste des employés" TextWrapping="Wrap" VerticalAlignment="Top"/>
-                    <TextBox x:Name="textBoxNom" IsEnabled="False" HorizontalAlignment="Left" Margin="84,116,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="textBoxNom" IsEnabled="False" HorizontalAlignment="Left" Margin="84,116,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
                     <TextBlock x:Name="textBlockNom" HorizontalAlignment="Left" Margin="11,117,0,0" Text="Nom" TextWrapping="Wrap" VerticalAlignment="Top"/>
-                    <TextBox x:Name="textBoxPrenom" IsEnabled="False" HorizontalAlignment="Left" Margin="84,153,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="textBoxPrenom" IsEnabled="False" HorizontalAlignment="Left" Margin="84,153,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
                     <TextBlock x:Name="textBlockPrenom" HorizontalAlignment="Left" Margin="11,154,0,0" Text="Prénom" TextWrapping="Wrap" VerticalAlignment="Top"/>
-                    <TextBox x:Name="textBoxRole" IsEnabled="False" HorizontalAlignment="Left" Margin="84,191,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="textBoxRole" IsEnabled="False" HorizontalAlignment="Left" Margin="84,191,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
                     <TextBlock x:Name="textBlockRole" HorizontalAlignment="Left" Margin="11,192,0,0" Text="Role" TextWrapping="Wrap" VerticalAlignment="Top"/>
-                    <TextBox x:Name="textBoxAdresseNumero" IsEnabled="False" HorizontalAlignment="Left" Margin="84,230,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="textBoxAdresseNumero" IsEnabled="False" HorizontalAlignment="Left" Margin="84,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
                     <TextBlock x:Name="textBlockAdresse" HorizontalAlignment="Left" Margin="11,230,0,0" Text="N°" TextWrapping="Wrap" VerticalAlignment="Top"/>
                     <Button Content="Editer" Name="EditButton" Click="Edit" HorizontalAlignment="Left" Margin="132,310,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.05,-0.397"/>
                     <Button Content="Sauvegarder" Name="SaveButton" Click="SaveEdit" Visibility="Hidden" HorizontalAlignment="Left" Margin="84,347,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.101,0.505"/>
@@ -29,9 +29,9 @@
                     <Button Content="Sauvegarder" x:Name="SaveAddButton" Click="SaveAdd" Visibility="Hidden" HorizontalAlignment="Left" Margin="84,347,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.101,0.505"/>
                     <Button Content="Annuler" x:Name="CancelAddButton" Click="CancelAdd" Visibility="Hidden" HorizontalAlignment="Left" Margin="164,347,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.101,0.505"/>
                     <Button Content="Supprimer" x:Name="DeleteButton" Click="Delete" HorizontalAlignment="Left" Margin="172,310,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.05,-0.397"/>
-                    <TextBox x:Name="textBoxAdresseVille" IsEnabled="False" HorizontalAlignment="Left" Margin="598,232,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-                    <TextBox x:Name="textBoxAdresseCP" IsEnabled="False" HorizontalAlignment="Left" Margin="430,231,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
-                    <TextBox x:Name="textBoxAdresseRue" IsEnabled="False" HorizontalAlignment="Left" Margin="262,231,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="textBoxAdresseVille" IsEnabled="False" HorizontalAlignment="Left" Margin="598,232,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="textBoxAdresseCP" IsEnabled="False" HorizontalAlignment="Left" Margin="430,231,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <TextBox x:Name="textBoxAdresseRue" IsEnabled="False" HorizontalAlignment="Left" Margin="262,231,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
                     <TextBlock x:Name="textBlockAdresse_Copy" HorizontalAlignment="Left" Margin="234,231,0,0" Text="Rue" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="15.852,0.82"/>
                     <TextBlock x:Name="textBlockAdresse_Copy1" HorizontalAlignment="Left" Margin="411,231,0,0" Text="CP" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="15.852,0.82"/>
                     <TextBlock x:Name="textBlockAdresse_Copy2" HorizontalAlignment="Left" Margin="574,234,0,0" Text="Ville" TextWrapping="Wrap" VerticalAlignment="Top" RenderTransformOrigin="15.852,0.82"/>
@@ -54,20 +54,20 @@
                     <ComboBox Grid.Column="1" Name="ComboBoxTypeConge" Initialized="ComboBoxTypeConge_Initialized" DisplayMemberPath="Libelle" Margin="158,167,443,203"/>
                     <Button Content="Valider" Click="AddConge" Grid.Column="1" HorizontalAlignment="Left" Margin="40,241,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.605"/>
                     <Label Content="Nombre de congés de ce type restant" IsEnabled="False" Grid.Column="1" HorizontalAlignment="Left" Margin="402,51,0,0" VerticalAlignment="Top"/>
-                    <TextBox Grid.Column="1" Name="TextBoxNombreConges" HorizontalAlignment="Left" Margin="402,77,0,0" Text="TextBox" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+                    <TextBox Grid.Column="1" Name="TextBoxNombreConges" HorizontalAlignment="Left" Margin="402,77,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
                 </Grid>
             </TabItem>
             <TabItem Header="TypeConges">
                 <Grid Background="#FFE5E5E5">
-                    <ComboBox Initialized="ComboBoxTypeConge_Initialized" SelectionChanged="comboBoxTypeConges_SelectionChanged" HorizontalAlignment="Left" Name="ComboboxTypesConges" Margin="244,56,0,0" VerticalAlignment="Top" Width="199"/>
+                    <ComboBox x:Name="ComboBoxListeTypeConges" DisplayMemberPath="Libelle" Initialized="ComboBoxTypeConge_Initialized" SelectionChanged="comboBoxTypeConges_SelectionChanged" HorizontalAlignment="Left" Margin="244,56,0,0" VerticalAlignment="Top" Width="199"/>
                     <Label Content="Liste de tous les types de congés" HorizontalAlignment="Left" Margin="10,54,0,0" VerticalAlignment="Top" RenderTransformOrigin="-2.869,0.196"/>
                     <Label Content="Nombre de jours de congés au maximum" HorizontalAlignment="Left" Margin="10,85,0,0" VerticalAlignment="Top" RenderTransformOrigin="-0.184,-0.267"/>
                     <Label Content="Libellé" HorizontalAlignment="Left" Margin="10,116,0,0" VerticalAlignment="Top"/>
                     <Label Content="Validation obligatoire" HorizontalAlignment="Left" Margin="10,147,0,0" VerticalAlignment="Top"/>
                     <Label Content="Pays" HorizontalAlignment="Left" Margin="10,178,0,0" VerticalAlignment="Top"/>
-                    <TextBox x:Name="TextBoxNombreJours" HorizontalAlignment="Left" Margin="244,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199"/>
-                    <TextBox x:Name="TextBoxLibelle" HorizontalAlignment="Left" Margin="244,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199"/>
-                    <CheckBox x:Name="CheckboxValidationTypeConges" Content="Non" HorizontalAlignment="Left" Margin="244,152,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.336,0.072" Checked="CheckBoxIsChecked"/>
+                    <TextBox x:Name="TextBoxNombreJours" IsEnabled="False" HorizontalAlignment="Left" Margin="244,93,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199"/>
+                    <TextBox x:Name="TextBoxLibelle" IsEnabled="False" HorizontalAlignment="Left" Margin="244,124,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199"/>
+                    <CheckBox x:Name="CheckboxValidationTypeConges" IsEnabled="False" Content="Non" HorizontalAlignment="Left" Margin="244,152,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.336,0.072" Checked="CheckBoxIsChecked"/>
                     <Button Content="Ajouter" Name="AddButtonTypeConges" Click="AddButtonTypeConges_Click" HorizontalAlignment="Left" Margin="10,220,0,0" VerticalAlignment="Top"/>
                     <Button Content="Editer" Name="EditButtonTypeConges" Click="EditButtonTypeConges_Click" HorizontalAlignment="Left" Margin="72,220,0,0" VerticalAlignment="Top"/>
                     <Button Content="Supprimer" Name="DeleteButtonTypeConges" Click="DeleteTypeConges" HorizontalAlignment="Left" Margin="125,220,0,0" VerticalAlignment="Top"/>
@@ -75,10 +75,7 @@
                     <Button Content="Sauvegarder" Name="SaveEditButtonTypeConges" Click="SaveEditButtonTypeConges_Click" HorizontalAlignment="Left" Margin="10,257,0,0" VerticalAlignment="Top"/>
                     <Button Content="Annuler" Name="CancelAddButtonTypeConges" Click="CancelAddButtonTypeConges_Click" HorizontalAlignment="Left" Margin="105,257,0,0" VerticalAlignment="Top"/>
                     <Button Content="Annuler" x:Name="CancelEditButtonTypeConges" Click="CancelEditButtonTypeConges_Click" HorizontalAlignment="Left" Margin="105,257,0,0" VerticalAlignment="Top"/>
-                    <TextBox Name="TextBoxPays" HorizontalAlignment="Left" Margin="244,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199"/>
-
-
-
+                    <TextBox Name="TextBoxPays" IsEnabled="False" HorizontalAlignment="Left" Margin="244,186,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="199"/>
                 </Grid>
             </TabItem>
         </TabControl>

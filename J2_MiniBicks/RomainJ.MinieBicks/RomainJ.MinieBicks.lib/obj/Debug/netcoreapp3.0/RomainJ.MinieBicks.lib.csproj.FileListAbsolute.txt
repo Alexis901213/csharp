@@ -9,3 +9,14 @@ C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master-2\J2_MiniBicks\RomainJ.M
 C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master-2\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp3.0\RomainJ.MinieBicks.lib.csproj.CopyComplete
 C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master-2\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp3.0\RomainJ.MinieBicks.lib.dll
 C:\Users\alexi\OneDrive\Bureau\MinieZoneSolution-master-2\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp3.0\RomainJ.MinieBicks.lib.pdb
+C:\Users\alexi\OneDrive\Documents\csharp\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\bin\Debug\netcoreapp3.0\RomainJ.MinieBicks.lib.deps.json
+C:\Users\alexi\OneDrive\Documents\csharp\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\bin\Debug\netcoreapp3.0\RomainJ.MinieBicks.lib.dll
+C:\Users\alexi\OneDrive\Documents\csharp\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\bin\Debug\netcoreapp3.0\RomainJ.MinieBicks.lib.pdb
+C:\Users\alexi\OneDrive\Documents\csharp\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\bin\Debug\netcoreapp3.0\RomainJ.MinieBicks.Data.dll
+C:\Users\alexi\OneDrive\Documents\csharp\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\bin\Debug\netcoreapp3.0\RomainJ.MinieBicks.Data.pdb
+C:\Users\alexi\OneDrive\Documents\csharp\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp3.0\RomainJ.MinieBicks.lib.csprojAssemblyReference.cache
+C:\Users\alexi\OneDrive\Documents\csharp\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp3.0\RomainJ.MinieBicks.lib.AssemblyInfoInputs.cache
+C:\Users\alexi\OneDrive\Documents\csharp\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp3.0\RomainJ.MinieBicks.lib.AssemblyInfo.cs
+C:\Users\alexi\OneDrive\Documents\csharp\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp3.0\RomainJ.MinieBicks.lib.csproj.CopyComplete
+C:\Users\alexi\OneDrive\Documents\csharp\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp3.0\RomainJ.MinieBicks.lib.dll
+C:\Users\alexi\OneDrive\Documents\csharp\J2_MiniBicks\RomainJ.MinieBicks\RomainJ.MinieBicks.lib\obj\Debug\netcoreapp3.0\RomainJ.MinieBicks.lib.pdb

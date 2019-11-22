@@ -62,9 +62,7 @@ namespace RomainJ.MinieBicks.Data
         override
         public string ToString()
         {
-            
             return  this.Nom + this.Prenom ;
-            
         }
 
 
@@ -103,7 +101,6 @@ namespace RomainJ.MinieBicks.Data
             using (var db = new MineBricksContext())
             {
                 var personne = db.Personne.Find(id);
-
                 res = (Personne)personne;
             }
             return (Personne)res;
@@ -114,10 +111,7 @@ namespace RomainJ.MinieBicks.Data
         {
             using (var db = new MineBricksContext())
             {
-                
                 var personnes = db.Personne.Include(p => p.Role).Include(p => p.Adresse).OrderBy(b => b.IdPersonne).ToList();
-
-
                 return personnes;
             }
         }
